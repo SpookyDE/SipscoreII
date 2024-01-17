@@ -1,0 +1,23 @@
+{
+  "name": "sipscoreii",
+  "version": "1.0.0",
+  "description": "Die SipScore-App ist deine ultimative Begleitung, um deine Lieblingsgetränke zu entdecken und zu bewerten! Egal, ob du ein Getränkekenner oder einfach nur auf der Suche nach neuen Geschmackserlebnissen bist, mit SipScore kannst du deine Trinkerfahrungen einfach und unterhaltsam teilen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpookyDE/SipscoreII.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpookyDE/SipscoreII/issues"
+  },
+  "homepage": "https://github.com/SpookyDE/SipscoreII#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
